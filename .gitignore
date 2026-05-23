@@ -1,0 +1,29 @@
+# Ignore daily progress log to keep the GitHub repository clean
+daily_progress_log.md
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Generated outputs & weights
+outputs/
+*.pt
+*.pth
+*.bin
+
+# OS-specific files
+.DS_Store
+Thumbs.db
