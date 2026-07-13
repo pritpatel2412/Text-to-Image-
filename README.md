@@ -56,6 +56,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### 4. Running Tests
+To verify the installation and the basic functionality of the generative models and pipeline routing, run the test script:
+```bash
+python -m unittest test_models.py
+```
+
 ---
 
 ## 📐 Project Architecture
