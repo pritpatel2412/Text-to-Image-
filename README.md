@@ -6,7 +6,7 @@ Developed as a unified, highly optimized portfolio application during the Elevan
 
 ---
 
-## 🚀 Core Project Features
+## Core Project Features
 
 1. **Pre-trained Latent Diffusion Suite**
    - Integrates **Stable Diffusion 1.5**, **Stable Diffusion 2.1**, and **Realistic Vision XL** models.
@@ -34,7 +34,7 @@ Developed as a unified, highly optimized portfolio application during the Elevan
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 ### 1. Clone & Navigate
 ```bash
@@ -64,7 +64,7 @@ python -m unittest test_models.py
 
 ---
 
-## 📐 Project Architecture
+## Project Architecture
 
 ```mermaid
 graph TD
@@ -84,7 +84,7 @@ graph TD
 
 ---
 
-## 📅 Roadmap & Milestones (6-Week Timeline)
+## Roadmap & Milestones (6-Week Timeline)
 
 * **Weeks 1-2**: Public Dataset Exploratory Analysis & Text Preprocessing/CLIP Embedding Extraction pipelines.
 * **Weeks 3-4**: Custom Conditional GAN (CGAN) Shape Synthesizer design, synthetic training data pipeline, and training loop.
@@ -94,5 +94,5 @@ graph TD
 
 ---
 
-## 📄 License
+## License
 This project is developed for educational and internship evaluation purposes under Elevanceskill. All rights reserved.
