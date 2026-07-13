@@ -27,3 +27,8 @@ outputs/
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+# Dataset exports
+exported_datasets/
+Elevanceskill_Internship_Datasets/
+export_datasets.py
